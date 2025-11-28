@@ -10,12 +10,7 @@ This dataset is the result of four years of data mining on the Sahara Press Serv
 
 ## Methodology
 
-It was intended to use data from both sides of the conflict, but so far, the Kingdom of Morocco does not recognise that there is such a conflict. Due to this fact, we do not have data from the Moroccan side of the conflict. Thus, to date, the only data available are from the Sahrawi and the UN. AS SPS is the official news source of the Saharawi Arab Democratic Republic (SADR) and is responsible for publishing official communications. Therefore, SPS reports were our primary source of information about the conflict. As the official language of SADR is Hassaniya, the team, after careful consideration and several meetings with representatives of the Sahrawi, opted to utilise the SADR Military Conmmuniqués published in Spanish.
-
-The Data Selection Criteria are:
-          - Official SADR Military Conmmuniqués published in Spanish on the SPS website
-          - 
-
+It was intended to use data from both sides of the conflict, but so far, the Kingdom of Morocco does not recognise that there is such a conflict. Due to this fact, we do not have data from the Moroccan side of the conflict. Thus, to date, the only data available are from the Sahrawi and the UN. AS SPS is the official news source of the Saharawi Arab Democratic Republic (SADR) and is responsible for publishing official communications. Therefore, SPS reports were our primary source of information about the conflict. As the official language of SADR is Hassaniya, the team, after careful consideration and several meetings with representatives of the Sahrawi, opted to utilise the SADR Military Conmmuniqués published in Spanish. These reports were published on a daily basis. After the creation of the official SPS Facebook page, those reports began to be published there, in Arabic, and as weekly summaries, rather than on the SPS website. The reports would be published again on the website.
 
 SPS Communiqués refer to the attacks by the Frente POLISARIO “…intensos bombardeos a […] .” (SPS, 2021). In the absence of a specific number, we count all attacks described as “intense” as 1 attack.
 
@@ -26,13 +21,25 @@ The statistical Data were obtained from the information in the War Communiqués 
 • The coloured schematics will be explained at the beginning of each analysis.
 
 - Source of the data: S on Sahara Press Service, published 
-- Time of Analysis: 13th November 2020 to 12th November 2024
+
  
 - instrumentos usados (questionários, scraping, entrevistas, etc.),
-- limitações conhecidas.
 
 
-
+The Data Selection Criteria are:
+          - Official Numbered SADR Military Conmmuniqués published in Spanish on the SPS website
+          - Within those reports:
+                    - Date of events
+                    - Number of events
+                    - General location of events (indicating the name of the zone and/or region of the attacks)
+                    - Additional information such as type of base attack (Artillery Platform, Specific Base or Platoon base, Surveillance Point)
+          - Publish between 13th November 2020 to 12th November 2024
+Know limitations:
+          - No Moroccan Data;
+          - Unreliability of publishing schedule;
+          - Multiple writers;
+          - Hassaniya is a spoken language more than a written one. Thus, the reports have terminology inconsistencies;
+          - Multiple platforms;
 ---
 
 ## Data Structure
