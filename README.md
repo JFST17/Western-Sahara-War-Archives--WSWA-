@@ -78,36 +78,6 @@ This dataset is the result of four years of data mining on the Sahara Press Serv
 ▪ S12
 ▪ S13
 5. The statistical Data were obtained from the information in the War Communiqués edited in the SPS, which were compiled in the War Reports of the website: https://westernsaharawararchive.com/
-6. We will only use Data relating to the first 6 (six) months of the conflict:
-6.1. Although the conflict has only started on November 13th, we consider November as month 1, so:
-• Month 1 starts on the 13th of November and ends on the 30th of November 2020;
-• Month 2 starts on the 1st of December and ends on 31th December 2020;
-• Month 3 starts on the 1st of January and ends on 31st January 2021;
-• Month 4 starts from the 1st of February to 28th February 2021;
-• Month 5 starts on the 1st of March and ends on 31st March 2021;
-• Month 6 starts on the 1st of April and ends on 30th April 2021;
-6.2. Therefore, the period of analysis is the timeframe between 11/13/2020 and 04/30/2021;
-6.3. We will use the acronym Nº+S as an abbreviation when referring to the period of analysis. Therefore, we will designate this period as: 1S;
-6.4. The values of 1S will be divided into two quarters:
-6.4.1. November-December-January
-6.4.2. February-March-April
-6.4.3. We will use the acronym Q+Nº as an abbreviation when referring to one of the Quarters, i.e., Q1, when referring to the Quarter of November-December-January. Therefore, we will designate the two Quarters as follows:
-• Q1
-• Q2
-7. The statistical data will be systematised into tables, graphs and maps, posted along the report;
-7.1. The collected data will be analysed in the following way:
-❖ General View;
-▪ Per Region View:
-• Oued Daraa;
-• Saguia El Hamara;
-• Rio de Oro;
-• Maps:
-• Month 1;
-• Month 2;
-• Month 3;
-• Month 4;
-• Month 5;
-• Month 6;
 • Tables, Graphs and Maps will be coloured;
 • The coloured schematics will be explained at the beginning of each analysis.
 
@@ -118,12 +88,61 @@ This dataset is the result of four years of data mining on the Sahara Press Serv
 - instrumentos usados (questionários, scraping, entrevistas, etc.),
 - limitações conhecidas.
 
-Não compliques — só o suficiente para alguém perceber se pode confiar.
+
 
 ---
 
-## 📂 Estrutura dos Dados
-Descreve:
+## Data Structure
+| Summary of the data analysed |
+| Variavel | Type | Description |
+|---------|------|-----------|
+| Starting date      | date | 13th of November 2020 |
+| Ending date      | date | 12th of November 2024 |
+| Time Frame of Analysis      | string | 4 years (2020-2024) |
+| Total of Months analysed      | int | 48 |
+| Total of Weeks analysed      | int | 210 |
+| Total of Days analysed      | int | 1457 |
+| Total of Semesters analysed      | int | 8 |
+| Total number of countries analysed      | int | 2 |
+| Total of Military Regions analysed      | int | 3 |
+| Total of Sectors analysed      | int | 13 |
+| War communiques      | int | 744 |
+| Month N      | string | 13th of X to 12th of Y |
+
+## Matrix of the composition of the Theatre of Operations in Western Sahara
+
+## Military Region 1
+| Name        | Acronym | Type/Region/Sector        | Hex Colour |
+|-------------|---------|----------------------------|------------|
+| Oued Daraa  | MR1     | Northern Region            | `#E2EFD9`  |
+| Aaga        | S1      | Northern Sector            | `#BED5B4`  |
+| Touizigui   | S2      | Centre-Northern Sector     | `#90BB7A`  |
+| El Mahabes  | S3      | Centre-Southern Sector     | `#68A242`  |
+| Farsia      | S4      | South Sector               | `#568736`  |
+
+
+## Military Region 2
+| Name            | Acronym | Type/Region/Sector        | Hex Colour |
+|-----------------|---------|----------------------------|------------|
+| Saguia El Hamara| MR2     | Central Region             | `#FEF2CB`  |
+| Haouza          | S5      | Northern Sector            | `#FFDDAD`  |
+| Smara           | S6      | Centre-Northern Sector     | `#FFCA69`  |
+| Amgala          | S7      | Centre-Southern Sector     | `#EFB300`  |
+| Guelta Zemmour  | S8      | South Sector               | `#C89600`  |
+
+
+## Military Region 3
+| Name         | Acronym | Type/Region/Sector        | Hex Colour |
+|--------------|---------|----------------------------|------------|
+| Rio de Oro   | MR3     | Southern Region            | `#FBE4D5`  |
+| Oum Dreiga   | S9      | Northern Sector            | `#FF6161`  |
+| El Bagari    | S10     | Centre-Northern Sector     | `#FF3737`  |
+| Auserd       | S11     | Centre-Southern Sector     | `#FF1D1D`  |
+| Techla       | S12     | South Sector               | `#D20000`  |
+| Bir Guendouz | S13     | Centre-Southern Sector     | `#A80000`  |
+
+
+
 - formato (CSV, JSON, etc.),
 - número de linhas / casos,
 - número de variáveis,
@@ -160,7 +179,6 @@ Descreve:
 | Meso_Level_Longitude    | string    | Indicates the latitude of the Meso level |
 | Meso_Level_Latitude    | string    | Indicates the longitude of the Meso level |
 | Meso_Level_MINURSO_control   | string    | Varies between Yes and No |
-| ...     | …      | … |
 
 ---
 
