@@ -93,7 +93,7 @@ This dataset is the result of four years of data mining on the Sahara Press Serv
 ---
 
 ## Data Structure
-| Summary of the data analysed |
+## Summary of the data analysed
 | Variavel | Type | Description |
 |---------|------|-----------|
 | Starting date      | date | 13th of November 2020 |
@@ -108,6 +108,8 @@ This dataset is the result of four years of data mining on the Sahara Press Serv
 | Total of Sectors analysed      | int | 13 |
 | War communiques      | int | 744 |
 | Month N      | string | 13th of X to 12th of Y |
+
+---
 
 ## Matrix of the composition of the Theatre of Operations in Western Sahara
 
