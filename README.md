@@ -141,7 +141,7 @@ Descreve:
 | Micro_Level_Name    | string    | Indicates the name of the Micro level of the event |
 | N_of_Event    | int    | Indicates the number of registered events |
 | Micro_Level_ID    | string    | Alphanumeric code unique identifier of the Micro level of the event; it is composed of Z (stands for Zone) and a number starting from 00 increasing when a new Zone is registered within the Meso Level |
-| Meso_Level_ID    | string    | Alphanumeric code unique identifier of the Meso level of the event; it varies between S1, S2, S3, S4, S5, S6, S7, S8, S9, S10, S11, S12 |
+| Meso_Level_ID    | string    | Alphanumeric code unique identifier of the Meso level of the event; it varies between S1, S2, S3, S4, S5, S6, S7, S8, S9, S10, S11, S12 and S13 |
 | Macro_Level_ID    | string    | Alphanumeric code unique identifier of the Macro level of the event; it varies between MR1, MR2 and MR3  |
 | Mega_Level_ID    | string     | Alphanumeric code unique identifier of the Mega level of the event; it varies between C1 and C2  |
 | Calender_Year    | int    | Indicates the civil year of the registered event |
@@ -149,19 +149,17 @@ Descreve:
 | Calender_Week    | int    | Indicates the number of the civil week of the registered event |
 | Calender_Week_Day    | string    | Indicates the day of the week of the registered event  |
 | Calender_Season    | string    | Indicates the season of the year of the registered event |
-| Mega_Level_Name    | string    |  Indicates the name of the Meso level of the registered event; it varies between Aaga (S1), Touizgui (S2), El Mahbes (S3), Farsia (S4), Haouza (S5), Smara (S6), Amgala (S7), Guelta Zemmour (S8), S9, S10, S11, S12 |
+| Mega_Level_Name    | string    |  Indicates the name of the Mega level of the registered event; it varies between Morocco (C1) and Occupied Western Sahara (C2) |
 | Macro_Level_Name    | string    | Indicates the name of the Macro level of the registered event; it varies between Oued Daraa (MR1), Saguia El Hamara (MR2) and Rio de Oro (MR3)  |
-| Macro_Level_Geographical_Location    | string    | Indicates the geographical location of the Macro level of the registered event; it varies between North, Centre-North, Centre and South |
-| Macro_Level_Latitude    | string    | Indicates the latitude of the Macro level of the Macro level |
-| Macro_Level_Longitude    | string    | Indicates the longitude of the Macro level of the Macro level |
-| Meso_Level_Name    | int    | descrição |
-| Meso_Level_Important_Location    | int    | descrição |
-| Meso_Level_Geographical_Location    | int    | descrição |
-| Meso_Level_Longitude    | int    | descrição |
-| Meso_Level_Latitude    | int    | descrição |
-| Meso_Level_MINURSO_control   | int    | descrição |
-| var2    | int    | descrição |
-| var2    | int    | descrição |
+| Macro_Level_Geographical_Location    | string    | Indicates the geographical location of the Macro level of the registered event; it varies between North, Centre and South |
+| Macro_Level_Latitude    | string    | Indicates the latitude of the Macro level |
+| Macro_Level_Longitude    | string    | Indicates the longitude of the Macro level |
+| Meso_Level_Name    | string    | Indicates the name of the Meso level of the registered event; it varies between Aaga (S1), Touizgui (S2), El Mahbes (S3), Farsia (S4), Haouza (S5), Smara (S6), Amgala (S7), Guelta Zemmour (S8), Oum Dreiga (S9), El Bagari (S10), Auserd (S11), Techla (S12) and Bir Guendouz (S13) |
+| Meso_Level_Important_Location    | string    | Indicates the name of the Meso level of the registered event; it varies between Aaga, Touizgui, El Mahbes, Farsia, Haouza, Smara, Amgala, Guelta Zemmour, Oum Dreiga, El Bagari, Auserd, Techla and Bir Guendouz |
+| Meso_Level_Geographical_Location    | string    | Indicates the geographical location of the Meso level of the registered event; it varies between North, Centre-North, Centre, Centre-South and South |
+| Meso_Level_Longitude    | string    | Indicates the latitude of the Meso level |
+| Meso_Level_Latitude    | string    | Indicates the longitude of the Meso level |
+| Meso_Level_MINURSO_control   | string    | Varies between Yes and No |
 | ...     | …      | … |
 
 ---
