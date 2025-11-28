@@ -4,87 +4,30 @@ Western Sahara War Archives (WSWA) Military Dataset. This dataset is the result 
 ---
 
 ## Context and Objectives
-This dataset is the result of four years of data mining on the Sahara Press Service (SPS-https://www.spsrasd.info/es). All raw data was gathered, analysed and made publicly available on the project website (https://westernsaharawararchive.com/). The research question of the project is: What is the evolution of the 3rd Phase of the Western Sahara Conflict? The data was collected and analysed by the WSWA Statistics Team, coordinated by Jorge Teixeira (https://orcid.org/0000-0003-3139-6506). The project aims to inform and organise data about the latest stage of the last colonial war in Africa, which started on 13th November 2020 in Western Sahara
+This dataset is the result of four years of data mining on the Sahara Press Service (SPS-https://www.spsrasd.info/es). All raw data was gathered, analysed and made publicly available on the project website (https://westernsaharawararchive.com/). The research question of the project is: What is the evolution of the 3rd Phase of the Western Sahara Conflict? The data was collected and analysed by the WSWA Statistics Team, coordinated by Jorge Teixeira (https://orcid.org/0000-0003-3139-6506). The project aims to inform and organise data about the latest stage of the last colonial war in Africa, which started on 13th November 2020 in Western Sahara.
 
 ---
 
 ## Methodology
 
-1. It was intended to use data from both sides of the conflict, but so far, the Kingdom of Morocco does not recognise that there is such a conflict. Therefore, we do not have data on the Moroccan side.
-2. Sahara Press Service is the official news source of the Saharawi Arab Democratic Republic
-2.1. Henceforth, we will use the acronym SADR when referring to the Saharawi Arab Democratic Republic.
-2.2. Henceforth, we will use the acronym SPS when referring to Sahara Press Service.
-2.3. SPS reports are our information base on the conflict, on the Frente POLISARIO side.
-2.4. SPS Communiqués refer to the attacks by the Frente POLISARIO “…intensos bombardeos a […] .” (SPS, 2021). In the absence of a specific number, we count all attacks described as “intense” as 1 attack.
-3. In order to make the statistical data easier to analyse, and after several meetings with official Saharawi entities and the analysis of the War Communiqués, it was possible to divide the territory of Western Sahara into analyzable portions:
-3.1. This division consists of two levels:
-3.1.1. Military Region - large geographic regions, that is, the macro unit;
-3.1.1.1. So far, 3 (three) Military Regions have been counted;
-3.1.1.2. The Military Regions to consider are:
-• Military Region 1-Oued Daraa;
-• Military Region 2-Saguia El Hamara;
-• Military Region 3-Rio de Oro.
-3.1.1.3. Saguia El Hamara and Rio de Oro are the two former Spanish administrative regions, with Oued Daraa being added.
-3.1.1.4. From now on, we will use the term RM when referring to Military Regions.
-3.1.1.5. We will use the acronym RM+Nº as an abbreviation when referring to a particular region, i.e., R1, when referring to Region 1 – Oued Daraa. Therefore, we will designate the Military Regions as follows:
-• RM 1
-• RM 2
-• RM 3
-3.1.2. Sector- smaller regions within large regions, that is, the micro unit;
-3.1.2.1. Up to the present moment, 13 sectors have been accounted for;
-3.1.2.2. The Sectors to consider are:
-• Sector 1 – Aaga;
-• sector 2 – Touizgui;
-• Sector 3 – El Mahabas;
-• Sector 4 – Farsia;
-• Sector 5 – Haouza;
-• Sector 6 – Smara;
-• Sector 7 – Amgala;
-• Sector 8 – Guelta Zemmour;
-• Sector 9 – Oum Dreiga;
-• Sector 10 – El Bagari;
-• Sector 11 – Auserd;
-• Sector 12 – Techla;
-• Sector 13 – Bir Guendouz;
-3.1.3. We will use the acronym S+Nº as an abbreviation when referring to a particular Sector, i.e., S1, when referring to Sector 1-Aaga. Therefore, we will designate the Sectors as follows:
-• S1;
-• S2;
-• S3;
-• S4;
-• S5;
-• S6;
-• S7;
-• S8;
-• S9;
-• S10;
-• S11;
-• S12;
-• S13;
-4. In practice, for this Report, the territorial division is as follows:
-• RM 1 is comprised:
-▪ S1
-▪ S2
-▪ S3
-▪ S4
-• RM 2 comprises:
-▪ S5
-▪ S6
-▪ S7
-▪ S8
-• RM 3 comprises:
-▪ S9
-▪ S10
-▪ S11
-▪ S12
-▪ S13
-5. The statistical Data were obtained from the information in the War Communiqués edited in the SPS, which were compiled in the War Reports of the website: https://westernsaharawararchive.com/
+It was intended to use data from both sides of the conflict, but so far, the Kingdom of Morocco does not recognise that there is such a conflict. Due to this fact, we do not have data from the Moroccan side of the conflict. Thus, to date, the only data available are from the Sahrawi and the UN. AS SPS is the official news source of the Saharawi Arab Democratic Republic (SADR) and is responsible for publishing official communications. Therefore, SPS reports were our primary source of information about the conflict. As the official language of SADR is Hassaniya, the team, after careful consideration and several meetings with representatives of the Sahrawi, opted to utilise the SADR Military Conmmuniqués published in Spanish.
+
+The Data Selection Criteria are:
+          - Official SADR Military Conmmuniqués published in Spanish on the SPS website
+          - 
+
+
+SPS Communiqués refer to the attacks by the Frente POLISARIO “…intensos bombardeos a […] .” (SPS, 2021). In the absence of a specific number, we count all attacks described as “intense” as 1 attack.
+
+In order to make the statistical data easier to analyse, and after several meetings with official Saharawi entities and the analysis of the War Communiqués, it was possible to divide the territory of Western Sahara into analyzable portions:
+
+The statistical Data were obtained from the information in the War Communiqués edited in the SPS, which were compiled in the War Reports of the website: https://westernsaharawararchive.com/
 • Tables, Graphs and Maps will be coloured;
 • The coloured schematics will be explained at the beginning of each analysis.
 
-- Source of the data: SADR Military Conmmuniqués published on Sahara Press Service (SPS-https://www.spsrasd.info/es), published in Spanish
+- Source of the data: S on Sahara Press Service, published 
 - Time of Analysis: 13th November 2020 to 12th November 2024
-- Data Selection Criteria:
-          -    
+ 
 - instrumentos usados (questionários, scraping, entrevistas, etc.),
 - limitações conhecidas.
 
