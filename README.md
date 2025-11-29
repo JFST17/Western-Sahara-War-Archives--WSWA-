@@ -130,13 +130,13 @@ The statistical Data were obtained from the information in the War Communiqués 
 ## Matrix of the composition of the Theatre of Operations in Western Sahara
 
 ## Military Region 1
-| Name        | Acronym | Type/Region/Sector        | Hex Colour |
+| Name        | Type | Acronym | Geographical Location       | Hex Colour |
 |-------------|---------|----------------------------|------------|
-| Oued Daraa  | MR1     | Northern Region            | `#E2EFD9`  |
-| Aaga        | S1      | Northern Sector            | `#BED5B4`  |
-| Touizigui   | S2      | Centre-Northern Sector     | `#90BB7A`  |
-| El Mahabes  | S3      | Centre-Southern Sector     | `#68A242`  |
-| Farsia      | S4      | South Sector               | `#568736`  |
+| Oued Daraa  | Military Region     | MR1     | Northern Region            | `#E2EFD9`  |
+| Aaga        | Sector     | S1      | Northern Sector            | `#BED5B4`  |
+| Touizigui   | Sector     | S2      | Centre-Northern Sector     | `#90BB7A`  |
+| El Mahabes  | Sector     | S3      | Centre-Southern Sector     | `#68A242`  |
+| Farsia      | Sector     | S4      | South Sector               | `#568736`  |
 
 
 ## Military Region 2
