@@ -194,6 +194,3 @@ The statistical Data were obtained from the information in the War Communiqués 
 | Meso_Level_MINURSO_control   | string    | Varies between Yes and No |
 
 ---
-
-## 📦 Organização do Repositório
-Explica o que existe em cada pasta:
