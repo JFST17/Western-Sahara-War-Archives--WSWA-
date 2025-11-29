@@ -140,24 +140,24 @@ The statistical Data were obtained from the information in the War Communiqués 
 
 
 ## Military Region 2
-| Name            | Acronym | Type/Region/Sector        | Hex Colour |
-|-----------------|---------|----------------------------|------------|
-| Saguia El Hamara| MR2     | Central Region             | `#FEF2CB`  |
-| Haouza          | S5      | Northern Sector            | `#FFDDAD`  |
-| Smara           | S6      | Centre-Northern Sector     | `#FFCA69`  |
-| Amgala          | S7      | Centre-Southern Sector     | `#EFB300`  |
-| Guelta Zemmour  | S8      | South Sector               | `#C89600`  |
+| Name            | Type| Acronym | Geographical Location        | Hex Colour |
+|--------------------------|---------|----------------------------|------------|
+| Saguia El Hamara| Military Region| MR2     | Central Region             | `#FEF2CB`  |
+| Haouza          | Sector     | S5      | Northern Sector            | `#FFDDAD`  |
+| Smara           | Sector     | S6      | Centre-Northern Sector     | `#FFCA69`  |
+| Amgala          | Sector     | S7      | Centre-Southern Sector     | `#EFB300`  |
+| Guelta Zemmour  | Sector     | S8      | South Sector               | `#C89600`  |
 
 
 ## Military Region 3
-| Name         | Acronym | Type/Region/Sector        | Hex Colour |
-|--------------|---------|----------------------------|------------|
-| Rio de Oro   | MR3     | Southern Region            | `#FBE4D5`  |
-| Oum Dreiga   | S9      | Northern Sector            | `#FF6161`  |
-| El Bagari    | S10     | Centre-Northern Sector     | `#FF3737`  |
-| Auserd       | S11     | Centre-Southern Sector     | `#FF1D1D`  |
-| Techla       | S12     | South Sector               | `#D20000`  |
-| Bir Guendouz | S13     | Centre-Southern Sector     | `#A80000`  |
+| Name         | Type| Acronym | Geographical Location        | Hex Colour |
+|--------------|-----|---------|----------------------------|------------|
+| Rio de Oro   | Military Region| MR3     | Southern Region            | `#FBE4D5`  |
+| Oum Dreiga   | Sector| S9      | Northern Sector            | `#FF6161`  |
+| El Bagari    | Sector| S10     | Centre-Northern Sector     | `#FF3737`  |
+| Auserd       | Sector| S11     | Centre-Southern Sector     | `#FF1D1D`  |
+| Techla       | Sector| S12     | South Sector               | `#D20000`  |
+| Bir Guendouz | Sector| S13     | Centre-Southern Sector     | `#A80000`  |
 
 
 
