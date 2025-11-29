@@ -132,32 +132,32 @@ The statistical Data were obtained from the information in the War Communiqués 
 ## Military Region 1
 | Name        | Type | Acronym | Geographical Location       | Hex Colour |
 |-------------|---------|----------------------------|------------|------------|
-| Oued Daraa  | Military Region     | MR1     | Northern Region            | `#E2EFD9`  |
-| Aaga        | Sector     | S1      | Northern Sector            | `#BED5B4`  |
-| Touizigui   | Sector     | S2      | Centre-Northern Sector     | `#90BB7A`  |
-| El Mahabes  | Sector     | S3      | Centre-Southern Sector     | `#68A242`  |
-| Farsia      | Sector     | S4      | South Sector               | `#568736`  |
+| Oued Daraa  | Military Region     | MR1     | North            | `#E2EFD9`  |
+| Aaga        | Sector     | S1      | North            | `#BED5B4`  |
+| Touizigui   | Sector     | S2      | Centre-North    | `#90BB7A`  |
+| El Mahabes  | Sector     | S3      | Centre-South    | `#68A242`  |
+| Farsia      | Sector     | S4      | South                | `#568736`  |
 
 
 ## Military Region 2
 | Name            | Type| Acronym | Geographical Location        | Hex Colour |
 |-----------------|---------|---------|----------------------------|------------|
-| Saguia El Hamara| Military Region| MR2     | Central Region             | `#FEF2CB`  |
-| Haouza          | Sector     | S5      | Northern Sector            | `#FFDDAD`  |
-| Smara           | Sector     | S6      | Centre-Northern Sector     | `#FFCA69`  |
-| Amgala          | Sector     | S7      | Centre-Southern Sector     | `#EFB300`  |
-| Guelta Zemmour  | Sector     | S8      | South Sector               | `#C89600`  |
+| Saguia El Hamara| Military Region| MR2     | Centre             | `#FEF2CB`  |
+| Haouza          | Sector     | S5      | North            | `#FFDDAD`  |
+| Smara           | Sector     | S6      | Centre-North    | `#FFCA69`  |
+| Amgala          | Sector     | S7      | Centre-South     | `#EFB300`  |
+| Guelta Zemmour  | Sector     | S8      | South               | `#C89600`  |
 
 
 ## Military Region 3
 | Name         | Type| Acronym | Geographical Location        | Hex Colour |
 |--------------|-----|---------|----------------------------|------------|
-| Rio de Oro   | Military Region| MR3     | Southern Region            | `#FBE4D5`  |
-| Oum Dreiga   | Sector| S9      | Northern Sector            | `#FF6161`  |
-| El Bagari    | Sector| S10     | Centre-Northern Sector     | `#FF3737`  |
-| Auserd       | Sector| S11     | Centre-Southern Sector     | `#FF1D1D`  |
-| Techla       | Sector| S12     | South Sector               | `#D20000`  |
-| Bir Guendouz | Sector| S13     | Centre-Southern Sector     | `#A80000`  |
+| Rio de Oro   | Military Region| MR3     | South            | `#FBE4D5`  |
+| Oum Dreiga   | Sector| S9      | North            | `#FF6161`  |
+| El Bagari    | Sector| S10     | Centre-North     | `#FF3737`  |
+| Auserd       | Sector| S11     | Centre-South     | `#FF1D1D`  |
+| Techla       | Sector| S12     | South                | `#D20000`  |
+| Bir Guendouz | Sector| S13     | Centre-South     | `#A80000`  |
 
 
 
