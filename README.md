@@ -161,7 +161,7 @@ The statistical Data were obtained from the information in the War Communiqués 
 
 
 
-### **Dicionário de Variáveis**
+### **Dictionary of Variables**
 | Variavel | Type | Description |
 |---------|------|-----------|
 | ID      | string | Alphanumeric code unique identifier composed by the Micro_Level_ID+Meso_Level_ID+Macro_Level_ID+Mega_Level_ID |
