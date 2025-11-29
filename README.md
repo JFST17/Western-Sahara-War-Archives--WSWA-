@@ -141,7 +141,7 @@ The statistical Data were obtained from the information in the War Communiqués 
 
 ## Military Region 2
 | Name            | Type| Acronym | Geographical Location        | Hex Colour |
-|--------------------------|---------|----------------------------|------------|
+|-----------------|---------|---------|----------------------------|------------|
 | Saguia El Hamara| Military Region| MR2     | Central Region             | `#FEF2CB`  |
 | Haouza          | Sector     | S5      | Northern Sector            | `#FFDDAD`  |
 | Smara           | Sector     | S6      | Centre-Northern Sector     | `#FFCA69`  |
