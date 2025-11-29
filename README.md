@@ -131,7 +131,7 @@ The statistical Data were obtained from the information in the War Communiqués 
 
 ## Military Region 1
 | Name        | Type | Acronym | Geographical Location       | Hex Colour |
-|-------------|---------|----------------------------|------------|
+|-------------|---------|----------------------------|------------|------------|
 | Oued Daraa  | Military Region     | MR1     | Northern Region            | `#E2EFD9`  |
 | Aaga        | Sector     | S1      | Northern Sector            | `#BED5B4`  |
 | Touizigui   | Sector     | S2      | Centre-Northern Sector     | `#90BB7A`  |
