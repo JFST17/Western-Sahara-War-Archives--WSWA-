@@ -161,11 +161,6 @@ The statistical Data were obtained from the information in the War Communiqués 
 
 
 
-- formato (CSV, JSON, etc.),
-- número de linhas / casos,
-- número de variáveis,
-- separador, encoding (UTF-8, por amor da ciência).
-
 ### **Dicionário de Variáveis**
 | Variavel | Type | Description |
 |---------|------|-----------|
