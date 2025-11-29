@@ -16,32 +16,98 @@ SPS Communiqués refer to the attacks by the Frente POLISARIO “…intensos bom
 
 In order to make the statistical data easier to analyse, and after several meetings with official Saharawi entities and the analysis of the War Communiqués, it was possible to divide the territory of Western Sahara into analyzable portions:
 
+<ul>
+  <li>Theatre of Operations
+    <ul>
+      <li>It is the mega-level of the conflict</li>
+      <li>Two sectors of MR1 are located within Morocco
+        <ul>
+          <li>Due to this fact, to better understand the data, we have coded:
+            <ul>
+              <li>Events that happened within Morocco as <strong>C01</strong></li>
+              <li>Events that happened within Western Sahara as <strong>C02</strong></li>
+            </ul>
+          </li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+  <li>Western Sahara was divided into three military regions
+    <ul>
+      <li>They have a North–South orientation</li>
+      <li>They are named after the geographical area where they are inserted</li>
+      <li>They are the macro-level of the conflict</li>
+      <li>Each Military Region was attributed the acronym <strong>MRx</strong></li>
+      <li>Each Military Region received a unique colour (Hexadecimal colour code)
+        <ul>
+          <li>The attribution of a Hexadecimal colour code allows for better organisation and better reading of the attack data</li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+  <li>Each MR is composed of four (4) Sectors, except MR3, which has five (5)
+    <ul>
+      <li>They have a North–South orientation</li>
+      <li>They are named after the most important point within the Sector</li>
+      <li>They are the meso-level of the conflict</li>
+      <li>The Sectors are located along the Moroccan Military Wall</li>
+      <li>Each Sector was attributed the acronym <strong>Sx</strong></li>
+      <li>Each Sector received a unique colour (Hexadecimal colour code)
+        <ul>
+          <li>Attributing a Hexadecimal colour code allows for better organisation and better reading of the attack data</li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+  <li>Each military Sector is composed of Zones
+    <ul>
+      <li>They are the micro-level or conflict zones where attacks take place</li>
+      <li>They are the micro-level or conflict zones, where the attacks take place</li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
+  <li>The Data Selection Criteria are:
+    <ul>
+      <li>Official Numbered SADR Military Communiqués published in Spanish on the SPS website</li>
+      <li>Within those reports:
+        <ul>
+          <li>Date of events</li>
+          <li>Number of events</li>
+          <li>General location of events (indicating the name of the zone and/or region of the attacks)</li>
+          <li>Additional information such as type of base attack:
+            <ul>
+              <li>Artillery Platform</li>
+              <li>Specific Base or Platoon Base</li>
+              <li>Surveillance Point</li>
+            </ul>
+          </li>
+          <li>All War Communiqués will have the word <strong>“ataques”</strong> or <strong>“bombardeos”</strong> in their title</li>
+          <li>All War Communiqués will have a photo of military equipment</li>
+          <li>Reference to <strong>ELPS</strong></li>
+        </ul>
+      </li>
+      <li>Published between 13th November 2020 and 12th November 2024</li>
+    </ul>
+  </li>
+
+  <li>Known Limitations:
+    <ul>
+      <li>No Moroccan Data</li>
+      <li>Unreliability of publishing schedule</li>
+      <li>Multiple writers</li>
+      <li>Hassaniya is primarily a spoken language, causing terminology inconsistencies in reports</li>
+      <li>Multiple platforms</li>
+    </ul>
+  </li>
+</ul>
+
 The statistical Data were obtained from the information in the War Communiqués edited in the SPS, which were compiled in the War Reports of the website: https://westernsaharawararchive.com/
 • Tables, Graphs and Maps will be coloured;
 • The coloured schematics will be explained at the beginning of each analysis.
 
-- Source of the data: S on Sahara Press Service, published 
-
- 
-- instrumentos usados (questionários, scraping, entrevistas, etc.),
-
-
-The Data Selection Criteria are:
-          - Official Numbered SADR Military Conmmuniqués published in Spanish on the SPS website
-          - Within those reports:
-                    - Date of events
-                    - Number of events
-                    - General location of events (indicating the name of the zone and/or region of the attacks)
-                    - Additional information such as type of base attack (Artillery Platform, Specific Base or Platoon base, Surveillance Point)
-          - Publish between 13th November 2020 to 12th November 2024
-Know limitations:
-          - No Moroccan Data;
-          - Unreliability of publishing schedule;
-          - Multiple writers;
-          - Hassaniya is a spoken language more than a written one. Thus, the reports have terminology inconsistencies;
-          - Multiple platforms;
 ---
-
 ## Data Structure
 ## Summary of the data analysed
 | Variavel | Type | Description |
