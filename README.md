@@ -1,6 +1,9 @@
 # WSWA
 Western Sahara War Archives (WSWA) Military Dataset. This dataset is the result of 4 years of data collection by the Centre of African Studies of Porto University (CEAUP), Project: Western Sahara War Archives- A Digital Archive for the 3rd phase of the Western Sahara War /https://www.africanos.eu/index.php/en/ceaup-r-d/future-research-projects/1292-digital-archives-relationalof-databases)
 
+DOI: https://doi.org/10.5281/zenodo.19041041
+
+
 ---
 
 ## Context and Objectives
